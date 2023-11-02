@@ -2,6 +2,7 @@ med/voll/api/medico/Especialidade.class
 med/voll/api/controller/HelloController.class
 med/voll/api/medico/DadosListagemMedico.class
 med/voll/api/endereco/DadosEndereco.class
+med/voll/api/medico/DadosAtualizarMedico.class
 med/voll/api/config/CorsConfiguration.class
 med/voll/api/controller/MedicoContrtoller.class
 med/voll/api/medico/Medico.class
