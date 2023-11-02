@@ -1,0 +1,1 @@
+ALTER TABLE vollmed_api.medicos ADD telefone varchar(100);
