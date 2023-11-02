@@ -1,0 +1,1 @@
+ALTER TABLE vollmed_api.medicos MODIFY COLUMN uf varchar(50);

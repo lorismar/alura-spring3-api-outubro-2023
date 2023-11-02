@@ -1,0 +1,1 @@
+ALTER TABLE vollmed_api.medicos MODIFY COLUMN cep varchar(50);
