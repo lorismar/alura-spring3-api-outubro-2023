@@ -8,6 +8,9 @@ med/voll/api/medico/MedicoRepository.class
 med/voll/api/Usuario/DadosAutenticacao.class
 med/voll/api/controller/AutenticacaoController.class
 med/voll/api/Usuario/Usuario.class
+med/voll/api/config/TokenService.class
+med/voll/api/config/DadosTokenJwt.class
+med/voll/api/config/SecurityFilter.class
 med/voll/api/medico/Especialidade.class
 med/voll/api/controller/HelloController.class
 med/voll/api/endereco/DadosEndereco.class

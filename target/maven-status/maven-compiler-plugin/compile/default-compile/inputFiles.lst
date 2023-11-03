@@ -4,6 +4,7 @@
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/medico/Especialidade.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/medico/Medico.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/controller/MedicoContrtoller.java
+/Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/config/TokenService.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/Usuario/Usuario.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/Usuario/AutenticacaoService.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/Usuario/DadosAutenticacao.java
@@ -13,8 +14,10 @@
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/medico/DadosCadastroMedico.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/Usuario/UsuarioRepository.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/medico/DadosDetalheMedico.java
+/Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/config/SecurityFilter.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/controller/AutenticacaoController.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/config/SecurityConfiguration.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/config/CorsConfiguration.java
+/Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/config/DadosTokenJwt.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/endereco/DadosEndereco.java
 /Diversos/TJRO/CURSOS_AULAS_PROJETOS/alura-spring3-api-outubro-2023/src/main/java/med/voll/api/ApiApplication.java
