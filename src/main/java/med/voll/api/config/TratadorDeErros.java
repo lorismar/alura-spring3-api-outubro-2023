@@ -24,7 +24,7 @@ public class TratadorDeErros {
 
         var erros =  ex.getBindingResult().getFieldErrors(); // ex.getFieldErrors();
 
-       var e = erros.stream().map(DadosErroValidacao::new);   //FieldError::getField
+       var e = erros.stream().map(DadosErroValidacao::new);   //FieldError::getField  Accept-Language com o valor pt-br
 
         return ResponseEntity.badRequest().body(e);
     }
