@@ -4,8 +4,8 @@ med/voll/api/paciente/DadosListagemPaciente.class
 med/voll/api/medico/DadosListagemMedico.class
 med/voll/api/consulta/DadosAgendamentoConsulta.class
 med/voll/api/medico/DadosAtualizarMedico.class
-med/voll/api/paciente/DadosCadastroPaciente.class
 med/voll/api/config/TratadorDeErros$DadosErroValidacao.class
+med/voll/api/paciente/DadosCadastroPaciente.class
 med/voll/api/consulta/ConsultaRepository.class
 med/voll/api/medico/DadosCadastroMedico.class
 med/voll/api/Usuario/AutenticacaoService.class
@@ -23,9 +23,9 @@ med/voll/api/endereco/DadosEndereco.class
 med/voll/api/config/TratadorDeErros.class
 med/voll/api/config/CorsConfiguration.class
 med/voll/api/controller/ConsultaController.class
+med/voll/api/config/SecurityConfiguration.class
 med/voll/api/paciente/Paciente.class
 med/voll/api/paciente/DadosAtualizacaoPaciente.class
-med/voll/api/config/SecurityConfiguration.class
 med/voll/api/controller/MedicoContrtoller.class
 med/voll/api/controller/PacienteController.class
 med/voll/api/medico/Medico.class
